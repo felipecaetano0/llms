@@ -25,7 +25,7 @@ Things that worked:
 ![File analysis using deepseek-r1 locally]('./pictures/file analysis with deepseek.png')
 
 
-![Sensorship]('./pictures/Chinese Sensorship.png')
+![Sensorship]('pictures/Chinese Sensorship.png')
 
 
 ![Freedom](./pictures/Freedom.png)
