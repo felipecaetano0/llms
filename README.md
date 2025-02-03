@@ -12,14 +12,14 @@ Things that worked:
 
 - China sensorship
 
-![Analysing a book about SQL Databases](./pictures/analysing a DB book.png)
+![Analysing a book about SQL Databases]('./pictures/analysing a DB book.png')
 
-![Analysing a book about SQL Databases - question](./pictures/Analysing a DB book - question.png)
+![Analysing a book about SQL Databases - question]('./pictures/Analysing a DB book - question.png')
 
-![Analysing a book about SQL Databases - answer](./pictures/Analysing a DB book - result.png)
+![Analysing a book about SQL Databases - answer]('./pictures/Analysing a DB book - result.png')
 
-![File analysis using deepseek-r1 locally](./pictures/file analysis with deepseek.png)
+![File analysis using deepseek-r1 locally]('./pictures/file analysis with deepseek.png')
 
-![Sensorship](./pictures/Chinese Sensorship.png)
+![Sensorship]('./pictures/Chinese Sensorship.png')
 
-![Freedom](./pictures/Freedom.png)
+![Freedom]('./pictures/Freedom.png')
