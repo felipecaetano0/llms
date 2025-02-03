@@ -16,10 +16,10 @@ Things that worked:
 ![Analysing a book about SQL Databases]('./pictures/analysing a DB book.png')
 
 
-![Analysing a book about SQL Databases - question]('./pictures/Analysing a DB book - question.png')
+![Analysing a book about SQL Databases - question](https://github.com/felipecaetano0/llms/blob/main/pictures/Analysing%20a%20DB%20book%20-%20question.png)
 
 
-![Analysing a book about SQL Databases - answer]('./pictures/Analysing a DB book - result.png')
+![Analysing a book about SQL Databases - answer](['./pictures/Analysing a DB book - result.png'](https://github.com/felipecaetano0/llms/blob/main/pictures/Analysing%20a%20DB%20book%20-%20result.png))
 
 
 ![File analysis using deepseek-r1 locally]('./pictures/file analysis with deepseek.png')
